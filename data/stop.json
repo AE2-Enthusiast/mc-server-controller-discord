@@ -1,0 +1,6 @@
+{
+    "name": "stop",
+    "type": 1,
+    "description": "Stop a Minecraft server",
+    "options": []
+}

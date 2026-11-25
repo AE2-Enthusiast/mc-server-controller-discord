@@ -1,0 +1,6 @@
+{
+    "name": "start",
+    "type": 1,
+    "description": "Start a Minecraft server",
+    "options": []
+}

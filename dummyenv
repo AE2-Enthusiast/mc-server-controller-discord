@@ -1,0 +1,5 @@
+# get this from you app in Discord's developer portal
+APP_PUBLIC_KEY=
+
+# Port to bind to
+PORT=3000
